@@ -7,8 +7,8 @@ const desenvolvedor = {
   localização: "Mundo",
   função: "Desenvolvedor Full Stack e Analista De Dados",
   linguagens: ["Python", "JavaScript", "C", "C++"],
-  desafioAtual: "Aprimorando habilidades em IA e Machine Learning",
-  hobbies: ["Programação", "Leitura", "Viagens", "Criação de Jogos"]
+  desafioAtual: "Aprimorando habilidades em Computação quântica e Machine Learning",
+  hobbies: ["Programação", "Leitura", "Viagens" e "Criação de Jogos"]
 };
 Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Com experiência em desenvolvimento web, mobile, analise de dados e criação de jogos, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
 
