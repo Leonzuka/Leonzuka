@@ -21,7 +21,7 @@ const desenvolvedor = {
 };
 ```
 
-Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Com experiência em desenvolvimento web, mobile, analise de dados e criação de jogos, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
+Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Com experiência em desenvolvimento web, mobile, analise de dados e criação de jogos.
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -36,19 +36,6 @@ Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Co
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
-
-## 🔥 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/Leonzuka/frutosdovale">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonzuka&repo=frutosdovale&theme=radical" />
-  </a>
-  <a href="https://github.com/Leonzuka/flask">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonzuka&repo=flask&theme=tokyonight" />
-  </a>
-</div>
-
-<br/>
 
 ## 📊 GitHub Stats
 
