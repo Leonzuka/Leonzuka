@@ -16,8 +16,8 @@ const desenvolvedor = {
   função: "Desenvolvedor Full Stack e Analista De Dados",
   linguagens: ["Python", "JavaScript", "C", "C++"],
   desafioAtual: "Aprimorando habilidades em Computação quântica e Machine Learning",
-  hobbies: ["Programação", "Leitura", "Viagens", "Criação de Jogos"]
-  localização: "Mundo",
+  hobbies: ["Programação", "Leitura", "Viagens", "Criação de Jogos"],
+  localização: "Mundo"
 };
 ```
 
