@@ -1,4 +1,4 @@
-Saudações, irmão! 👋
+## Saudações, irmão! 👋
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Analista+De+Dados;Entusiasta+de+Tecnologia;Desenvolvedor+De+Jogos&font=Fira%20Code&center=true&width=380&height=50"> </div> <p align="center"> <a href="https://www.linkedin.com/in/leonardo-feitosadev/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a> </p>
 💫 Sobre Mim
 javascript
