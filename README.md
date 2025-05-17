@@ -1,5 +1,5 @@
 Saudações, irmão! 👋
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Entusiasta+de+Tecnologia;Sempre+Aprendendo&font=Fira%20Code&center=true&width=380&height=50"> </div> <p align="center"> <a href="https://seu-site.com"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" /></a> <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a> <a href="https://twitter.com/seu-twitter"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" /></a> </p>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Analista+De+Dados;Entusiasta+de+Tecnologia;Desenvolvedor+De+Jogos&font=Fira%20Code&center=true&width=380&height=50"> <a href="https://www.linkedin.com/in/leonardo-feitosadev/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a> </p>
 💫 Sobre Mim
 javascript
 const desenvolvedor = {
