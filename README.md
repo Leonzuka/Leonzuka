@@ -21,7 +21,7 @@ const desenvolvedor = {
 };
 ```
 
-Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Com experiência em desenvolvimento web, mobile, analise de dados e criação de jogos.
+Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Com experiência em desenvolvimento web, mobile, análise de dados e criação de jogos.
 
 ## 🚀 Tecnologias & Ferramentas
 
