@@ -15,7 +15,7 @@ const desenvolvedor = {
   nome: "Leonardo Feitosa",
   função: "Desenvolvedor Full Stack e Analista De Dados",
   linguagens: ["Python", "JavaScript", "C", "C++"],
-  desafioAtual: "Aprimorando em Computação quântica e Machine Learning",
+  desafioAtual: "Aprimorando meu conhecimento sobre Computação Quântica",
   hobbies: ["Programação", "Leitura", "Viagens", "Criação de Jogos"],
   localização: "Mundo"
 };
