@@ -51,7 +51,7 @@ Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Co
 ## 🎯 Metas para 2025
 
 - Contribuir mais para projetos open source
-- Lançar uma aplicação com foco em academias
+- Lançar uma aplicativo educacional
 - Aprimorar conhecimentos em Inteligência Artificial
 - Compartilhar conhecimento através de artigos e posts
 - Desenvolver um projeto utilizando blockchain
