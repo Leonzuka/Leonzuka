@@ -14,7 +14,7 @@
 const desenvolvedor = {
   nome: "Leonardo Feitosa",
   função: "Desenvolvedor Full Stack e Analista De Dados",
-  linguagens: ["Python", "JavaScript", "C", "C++"],
+  linguagens: ["Python", "JavaScript", "Flutter", "C++"],
   desafioAtual: "Aprimorando meu conhecimento sobre Computação Quântica",
   hobbies: ["Programação", "Leitura", "Viagens", "Criação de Jogos"],
   localização: "Mundo"
@@ -23,7 +23,7 @@ const desenvolvedor = {
 
 Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Com experiência em desenvolvimento web, mobile, análise de dados e criação de jogos.
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -37,24 +37,12 @@ Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Co
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonzuka&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonzuka&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
+## Metas para 2026
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonzuka&theme=tokyonight&hide_border=true" alt="Github Streak Stats">
-</div>
-
-## 🎯 Metas para 2025
-
-- Contribuir mais para projetos open source
-- Lançar uma aplicativo educacional
-- Aprimorar conhecimentos em Inteligência Artificial
-- Compartilhar conhecimento através de artigos e posts
+- Lançar meu Saas
 - Desenvolver um projeto utilizando blockchain
+- Contribuir mais para projetos open source
 
 ## 📫 Como me encontrar
 
