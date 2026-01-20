@@ -40,7 +40,6 @@ Sou um desenvolvedor focado em criar soluções que resolvam problemas reais. Co
 
 ## Metas para 2026
 
-- Lançar meu Saas
 - Desenvolver um projeto utilizando blockchain
 - Contribuir mais para projetos open source
 
