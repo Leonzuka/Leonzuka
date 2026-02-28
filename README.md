@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/leonardo-feitosadev/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 ```javascript
 const desenvolvedor = {
