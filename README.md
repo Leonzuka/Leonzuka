@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Data+Analyst;Technology+Enthusiast;Game+Developer&font=Fira%20Code&center=true&width=760&height=80" alt="typing"/>
 </div>
+
 ## About Me
 
 ```javascript
