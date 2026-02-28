@@ -1,7 +1,7 @@
 # Greetings, brother! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Data+Analyst;Technology+Enthusiast;Game+Developer&font=Fira%20Code&center=true&width=760&height=80" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Data+Analyst;Technology+Enthusiast;Game+Developer&font=Fira%30Code&center=true&width=500&height=50" alt="typing"/>
 </div>
 
 ## About Me
@@ -18,7 +18,7 @@ const developer = {
 };
 ```
 
-I build scalable, maintainable solutions that solve real problems — web, mobile, data and game systems. I value clean architecture, practical designs and continuous learning.
+I build scalable, maintainable solutions that solve real problems — web, mobile, data and game systems.
 
 ---
 
@@ -58,7 +58,7 @@ I build scalable, maintainable solutions that solve real problems — web, mobil
 
 * Backend: Flask, Nodejs, REST APIs, SQL, authentication
 * Frontend: React, component-driven UI, state management, responsive design
-* Data: ETL, data cleaning, pandas, visualization, ML pipelines
+* Data: Data cleaning, pandas, visualization, ML pipelines
 * Game dev: Prototyping, gameplay logic, simple 2D/3D assets and tooling
 * DevOps & infra: Docker, CI/CD, deployment
 * Tests: clean code, code reviews, monitoring
